@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "weather-test-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "76a55d61-bf3a-420d-9869-7adb285567ae",
+      "database_name": "weather-test-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
